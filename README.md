@@ -4,15 +4,16 @@ Welcome to the Modular Chatbot Framework! This project outlines a comprehensive 
 
 ## Quick Links
 
-- [Architecture Overview](./architecture_overview.md)
+- [Architecture Overview](./wiki/docs/architecture_overview.md)
 - [Module Descriptions](#module-descriptions)
-  - [NLP Module](./nlp_module.md)
-  - [Data Retrieval Module](./data_retrieval_module.md)
-  - [LLM Adapter Module](./llm_adapter_module.md)
-  - [Generation Module](./generation_module.md)
-- [Security and Compliance](./security_compliance.md)
-- [Deployment Options](./deployment_options.md)
-- [Development and Testing Strategy](./development_testing_strategy.md)
+  - [NLP Module](./wiki/modules/nlp_module.md)
+  - [Data Retrieval Module](./wiki/modules/data_retrieval_module.md)
+  - [LLM Adapter Module](./wiki/modules/llm_adapter_module.md)
+  - [Generation Module](./wiki/modules/generation_module.md)
+- [Security and Compliance](./wiki/docs/security_compliance.md)
+- [Deployment Options](./wiki/docs/deployment_options.md)
+- [Development and Testing Strategy](./wiki/docs/development_testing_strategy.md)
+
 
 ## Project Summary
 
