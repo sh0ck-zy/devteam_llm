@@ -21,6 +21,6 @@ This framework is designed to be flexible and adaptable, capable of interfacing 
 
 ## Getting Started
 
-To get started with this project, please refer to the [Architecture Overview](./architecture_overview.md) for a detailed description of the system's structure and main components.
+To get started with this project, please refer to the [Architecture Overview](./wiki/docs/architecture_overview.md) for a detailed description of the system's structure and main components.
 
 Thank you for choosing our Modular Chatbot Framework for your intelligent solutions development!
