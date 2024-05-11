@@ -8,7 +8,7 @@ This document provides a detailed overview of the architecture of the Modular Ch
 
 The following diagram illustrates the high-level architecture of the system:
 
-![System Architecture Diagram](path/to/diagram.png)
+![System Architecture Diagram](../diagram.png)
 
 ### Components
 
